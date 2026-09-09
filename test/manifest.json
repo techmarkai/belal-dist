@@ -1,0 +1,67 @@
+{
+  "counter": 1,
+  "published": "2026-09-09T00:06:31Z",
+  "schema": 1,
+  "tables": {
+    "jordan.amman": {
+      "path": "tables/2026/jordan.amman.cfde1ff8641a16390266f4472df2832562e2ce4fb3a11c8769acfd9d79a1dccf.btrp",
+      "sha256": "cfde1ff8641a16390266f4472df2832562e2ce4fb3a11c8769acfd9d79a1dccf",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.azraq": {
+      "path": "tables/2026/jordan.azraq.81cc7313410498ba1f19c2f4412647711b936efde00ea7276f7ff5d24abe9565.btrp",
+      "sha256": "81cc7313410498ba1f19c2f4412647711b936efde00ea7276f7ff5d24abe9565",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.central-aghwar": {
+      "path": "tables/2026/jordan.central-aghwar.ba306dfec66d484315d4a706ca1965801c05beea3d76f40bb2d6cc34ff697392.btrp",
+      "sha256": "ba306dfec66d484315d4a706ca1965801c05beea3d76f40bb2d6cc34ff697392",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.irbid": {
+      "path": "tables/2026/jordan.irbid.47c468fa41b62cd4c8cf7c7a6b51eaee3632a459b471888396b326d6b588d14c.btrp",
+      "sha256": "47c468fa41b62cd4c8cf7c7a6b51eaee3632a459b471888396b326d6b588d14c",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.jerash-ajloun": {
+      "path": "tables/2026/jordan.jerash-ajloun.8bfa5b587c225dae00cd34891529b0ddb4975cef18f85aff6e1eb57c016f0b24.btrp",
+      "sha256": "8bfa5b587c225dae00cd34891529b0ddb4975cef18f85aff6e1eb57c016f0b24",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.karak": {
+      "path": "tables/2026/jordan.karak.f9633c968fc5807f577a453f4d44e3b489d6ecb8bbc98296c79e8b2067774d0e.btrp",
+      "sha256": "f9633c968fc5807f577a453f4d44e3b489d6ecb8bbc98296c79e8b2067774d0e",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.maan": {
+      "path": "tables/2026/jordan.maan.7e2ad13c8f87f85041181cf1e8a83bbb75a9f7cb2c9bd126d381f0e10461a55d.btrp",
+      "sha256": "7e2ad13c8f87f85041181cf1e8a83bbb75a9f7cb2c9bd126d381f0e10461a55d",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.mafraq": {
+      "path": "tables/2026/jordan.mafraq.5099125261dd6f90da6e21cd7275dec2982e616d1ea9ce65a2374b81378d3d65.btrp",
+      "sha256": "5099125261dd6f90da6e21cd7275dec2982e616d1ea9ce65a2374b81378d3d65",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.northern-aghwar": {
+      "path": "tables/2026/jordan.northern-aghwar.4d6466f523ed7f9d01e7d61c34114cc7c698f4b5677c98ffa408b9dc314fb8c6.btrp",
+      "sha256": "4d6466f523ed7f9d01e7d61c34114cc7c698f4b5677c98ffa408b9dc314fb8c6",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.tafila": {
+      "path": "tables/2026/jordan.tafila.dc63cfb00f59775c5756e4cd77f0d507fedad2321aab200bb2c2f48f6d2ae457.btrp",
+      "sha256": "dc63cfb00f59775c5756e4cd77f0d507fedad2321aab200bb2c2f48f6d2ae457",
+      "size": 5218,
+      "year": 2026
+    }
+  }
+}

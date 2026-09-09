@@ -1,0 +1,18 @@
+# Cloudflare Pages cache policy. Rationale is deliberate, not arbitrary.
+#
+# Payloads are CONTENT-ADDRESSED: the SHA-256 is in the filename, so a change
+# in content is always a change in URL. A cached copy can therefore never be
+# stale for its own URL, which makes an effectively unbounded TTL safe and
+# removes the fresh-manifest/stale-payload race entirely.
+/test/tables/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# The manifest is the freshness pointer and is the one object that changes in
+# place. 60s is short enough that a publish propagates within a minute, long
+# enough to absorb device polling. Correctness NEVER depends on this value -
+# the Ed25519 signature and the monotonic counter do that work. A stale
+# manifest only delays an update; it can never cause a bad install.
+/test/manifest.json
+  Cache-Control: public, max-age=60, must-revalidate
+/test/manifest.sig
+  Cache-Control: public, max-age=60, must-revalidate
