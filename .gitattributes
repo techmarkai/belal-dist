@@ -1,0 +1,10 @@
+# Every file here is signature-verified byte-for-byte. The Ed25519 signature
+# covers the exact raw bytes of manifest.json, and every payload is bound by a
+# SHA-256 recorded in that manifest. ANY end-of-line conversion, on any clone,
+# on any platform, would change those bytes and break verification.
+#
+# Treat everything as binary so git never rewrites a single byte.
+* -text
+*.json -text
+*.sig -text binary
+*.btrp -text binary
