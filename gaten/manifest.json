@@ -1,11 +1,17 @@
 {
-  "counter": 3,
-  "published": "2026-09-11T07:07:20Z",
+  "counter": 4,
+  "published": "2026-09-15T08:07:35Z",
   "schema": 1,
   "tables": {
     "jordan.amman": {
       "path": "tables/2026/jordan.amman.8428607dd3c13f8200591fb3f842388d22b13d318282c68ba3d007b8bc045a63.btrp",
       "sha256": "8428607dd3c13f8200591fb3f842388d22b13d318282c68ba3d007b8bc045a63",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.aqaba": {
+      "path": "tables/2026/jordan.aqaba.aee5a34357a5a312d47e389a31639483ad08c3483495263951312c36365ca1a1.btrp",
+      "sha256": "aee5a34357a5a312d47e389a31639483ad08c3483495263951312c36365ca1a1",
       "size": 5218,
       "year": 2026
     },
@@ -21,6 +27,18 @@
       "size": 5218,
       "year": 2026
     },
+    "jordan.dhiban": {
+      "path": "tables/2026/jordan.dhiban.1c822353053aea9a652167b002c93f88ac16653d0ef50a1c33d4d4b0fd809cb0.btrp",
+      "sha256": "1c822353053aea9a652167b002c93f88ac16653d0ef50a1c33d4d4b0fd809cb0",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.dhulail-hashimiya": {
+      "path": "tables/2026/jordan.dhulail-hashimiya.09f0621fa1aecbf878a6222ef2c78f427ea676338be148e7a53f469c002ac31e.btrp",
+      "sha256": "09f0621fa1aecbf878a6222ef2c78f427ea676338be148e7a53f469c002ac31e",
+      "size": 5218,
+      "year": 2026
+    },
     "jordan.irbid": {
       "path": "tables/2026/jordan.irbid.9d83cbba271ce413861b22fd879c36f4060188b96311e79e0fceaa18e6aeeab4.btrp",
       "sha256": "9d83cbba271ce413861b22fd879c36f4060188b96311e79e0fceaa18e6aeeab4",
@@ -30,6 +48,12 @@
     "jordan.jerash-ajloun": {
       "path": "tables/2026/jordan.jerash-ajloun.0a73629e2011e9591ffb99db5c7e7af8d1c002340645a7da3e902632704da369.btrp",
       "sha256": "0a73629e2011e9591ffb99db5c7e7af8d1c002340645a7da3e902632704da369",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.jerusalem": {
+      "path": "tables/2026/jordan.jerusalem.9ad4634291b0a12a345dc1a670e5668c790906ef54998d821855465b51797148.btrp",
+      "sha256": "9ad4634291b0a12a345dc1a670e5668c790906ef54998d821855465b51797148",
       "size": 5218,
       "year": 2026
     },
@@ -54,6 +78,18 @@
     "jordan.northern-aghwar": {
       "path": "tables/2026/jordan.northern-aghwar.f6692841c57629e8f0240f9a757424aeed739337c15ebe4b3fe0adea5c15119f.btrp",
       "sha256": "f6692841c57629e8f0240f9a757424aeed739337c15ebe4b3fe0adea5c15119f",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.ruwaished": {
+      "path": "tables/2026/jordan.ruwaished.892a7f93e7029be40c09b375d7475e70802bc4a205f07c33f0f23a4d31120e62.btrp",
+      "sha256": "892a7f93e7029be40c09b375d7475e70802bc4a205f07c33f0f23a4d31120e62",
+      "size": 5218,
+      "year": 2026
+    },
+    "jordan.shobak-petra": {
+      "path": "tables/2026/jordan.shobak-petra.4714b17372535a0cd5c830a1dcffc31747fd590e517e9b78737e19803a75652b.btrp",
+      "sha256": "4714b17372535a0cd5c830a1dcffc31747fd590e517e9b78737e19803a75652b",
       "size": 5218,
       "year": 2026
     },
